@@ -47,4 +47,3 @@ This project applies **machine learning algorithms** to predict the impact signi
 
 ---
 
-Would you like me to also add a **“How to Run” section** with sample code snippets (like `pip install -r requirements.txt` and `python main.py`) so it’s immediately usable for others cloning your repo?
